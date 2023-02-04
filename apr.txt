@@ -1,4 +1,4 @@
-KJJ#afg_hamxa
+JKJJ#afg_hamxa
 1-0-3-7-3-u-0-_-a-3-7-3-TRT
 #me
 1-0-1-7-4-u-0-_-a-1-7-4-TRT
@@ -86,5 +86,8 @@ zahid baloch
 #aziz
 
 1-0-2-3-9-u-0-_-a-2-3-9-TRT
+
+#aziz_g
+1-0-2-9-4-u-0-_-a-2-9-4-TRT
 
 
