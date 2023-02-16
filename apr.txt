@@ -4,6 +4,9 @@ J]UJKJJ#afg_hamxa
 1-0-1-9-9-u-0-_-a-1-9-9-TRT
 
 
+#mano_free_fake
+1-0-3-0-7-u-0-_-a-3-0-7-TRT
+
 #afg_free
 1-0-2-5-5-u-0-_-a-2-5-5-TRT
 
