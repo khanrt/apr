@@ -73,6 +73,9 @@ Exp
 #rocky_frnd
 1-0-1-9-1-u-0-_-a-1-9-1-TRT
 
+
+#ayesha_fake
+1-0-3-7-2-u-0-_-a-3-7-2-TRT
 #nida
 1-0-3-6-7-u-0-_-a-3-6-7
 
